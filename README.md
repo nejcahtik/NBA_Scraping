@@ -5,16 +5,16 @@ This application takes one command-line argument and exctracts 3 points average 
 Example:
 
 Input
-'''bash
+```bash
 Luka Dončić
-'''
+```
 
 Output
-'''bash
+```bash
 Season       3PA      Team
 2018-19      7.1      (DAL)
 2019-20      8.9      (DAL)
-'''
+```
 
 
 
@@ -23,7 +23,7 @@ Season       3PA      Team
 
 
 
-##Testing
+## Testing
 
 The project also includes parameterized test with JUnit framework. For testing purposes there are 2 files in /rc/test/resources/:
 inputNames.txt

@@ -1,6 +1,6 @@
 # NBA_Scraping
 
-This application takes one command-line argument and exctracts 3 point average per season of a given player from the website https://www.basketball-reference.com/.
+This application takes one command-line argument and extracts 3 point average per season of a given player from the website https://www.basketball-reference.com/.
 
 Example:
 

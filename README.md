@@ -41,4 +41,4 @@ where "data" is written in a format:
 ```
 where 20XX-YY is the season, ZZ is the 3 point average of the player in this season and QQQ is the NBA team in which player has played that season.
 
-Note that input names and expected results must be written in the same lines (e.g. if "Luka Dončić" is written in the third line in inputNames.txt, his expected results must also be written in the third line in expectedResults.txt)
+Note that input names and expected results must be written in the same lines (e.g. if "Luka Dončić" is written in the third line in inputNames.txt, his expected results must also be written in the third line in expectedResults.txt).

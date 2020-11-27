@@ -27,7 +27,7 @@ Season       3PA      Team
 
 The project also includes parameterized test with JUnit framework. For testing purposes there are 2 files in /rc/test/resources/:
 
-inputNames.txt
+inputNames.txt and
 expectedResults.txt
 
 inputNames.txt should contain names of current NBA basketball players, one in each line.
@@ -40,3 +40,5 @@ where "data" is written in a format:
 "20XX-YY, ZZ, QQQ",
 
 where 20XX-YY is the season, ZZ is the 3 point average of the player in this season and QQQ is the NBA team in which player has played that season.
+
+Note that input names and expected results must be written in the same lines (e.g. if "Luka Dončić" is written in the third line in inputNames.txt, his expected results must also be written in the third line in expectedResults.txt)

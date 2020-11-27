@@ -25,7 +25,7 @@ Season       3PA      Team
 
 ## Testing
 
-The project also includes parameterized test with JUnit framework. For testing purposes there are 2 files in /rc/test/resources/:
+The project also includes parameterized test with JUnit framework. For testing purposes there are 2 files in /src/test/resources/:
 
 inputNames.txt and
 expectedResults.txt

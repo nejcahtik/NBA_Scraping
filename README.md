@@ -31,7 +31,7 @@ inputNames.txt and
 expectedResults.txt
 
 inputNames.txt should contain names of current NBA basketball players, one in each line.
-expectedResults.txt should contain expected 3 point averages per season of the NBA players in inputNames.txt file. Expected results should be written in this format:
+expectedResults.txt should contain expected 3 point averages per season of the NBA players in inputNames.txt file. Expected results for one player should be written in this format:
 ```bash
 "data | data | data | ... | data | ",
 ```
